@@ -1,56 +1,49 @@
-# Rahul Suresh Mali
+<h1 align="center">Hi 👋, I'm Rahul Mali</h1>
+<h3 align="center">Embedded Firmware Engineer.</h3>
 
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rahul%20Mali&fontSize=50&fontAlign=35&animation=fadeIn)
 
-[![GitHub followers](https://img.shields.io/github/followers/rahulsmali?label=Follow&style=flat-square)](https://github.com/rahulsmali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rahulsmali)
-[![Mail](https://img.shields.io/badge/Email-malirahulmr1@gmail.com-red?style=flat-square&logo=gmail)](mailto:malirahulmr1@gmail.com)
+- 📫 How to reach me **<malirahulmr1@gmail.com>**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rahulmali2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-wasarwad" height="30" width="40" /></a>
+</p>
 ---
 
-## 👨‍💻 About Me
 
-Embedded Systems Engineer with a Mechatronics background, experienced in embedded C/C++, microcontroller programming (PIC, STM32, Arduino), firmware development, and hardware-software integration. Skilled in real-time system design, debugging, sensor interfacing, and communication protocols including UART, SPI, I2C, and CAN.
+<h3 align="left">Languages and Tools:</h3>
 
-## 📚 Education
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
 
-- **B.Tech – Mechatronics Engineering**
-  - Loknete Shamrao Peje Government College of Engineering, Ratnagiri
-  - July 2025
-- **Diploma – Electronics Engineering**
-  - Puranmal Lahoti Government Polytechnic, Latur
-  - July 2022
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
 
-## 🛠️ Technical Skills
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+</a>
 
-| Category | Skills |
-|---|---|
-| Programming | C, Embedded C, C++ |
-| Microcontrollers | STM32, PIC, Arduino |
-| Protocols | UART, SPI, I2C, CAN |
-| Tools | MPLAB X IDE, STM32CubeIDE, Arduino IDE, Proteus, EasyEDA, Git |
-| Concepts | Embedded Systems, RTOS, Circuit Design, Debugging |
-| Mechatronics | Sensors, PID Control, Electro-mechanical Systems |
+<a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/stmicroelectronics.svg" alt="stm32" width="40" height="40"/>
+</a>
 
-## 🚀 Experience
+<a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microchip_logo.svg" alt="mplab" width="40" height="40"/>
+</a>
 
-### Embedded System Training
-**Emertxe Information Technologies, Bangalore** | Aug 2025 – Present
-- Developed embedded applications using Embedded C, microcontrollers, and RTOS.
-- Implemented hardware interfacing and debugging solutions.
-- Strengthened expertise in real-time embedded systems and troubleshooting.
+<a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/freertos/freertos-icon.svg" alt="freertos" width="40" height="40"/>
+</a>
 
-### Embedded System Intern
-**Electronica Mechatronics Systems Pvt. Ltd., Pune** | Mar 2025 – Aug 2025
-- Performed board-level debugging, circuit testing, and hardware validation.
-- Identified and resolved hardware issues to improve reliability and uptime.
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+</a>
 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
 
-
-## 📈 GitHub Profile
-
-- GitHub: [github.com/rahulsmali](https://github.com/rahulsmali)
-- Email: malirahulmr1@gmail.com
-- Location: Latur, Maharashtra
 
 
